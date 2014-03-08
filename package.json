@@ -1,0 +1,20 @@
+{
+    "name": "nodecopter-gvt",
+    "version": "0.0.1",
+    "description": "toying around with AR-Drone and Node.js",
+    "homepage": "http://github.com/gvt/nodecopter-gvt",
+    "author": "Greg Tomei",
+    "engines": {
+        "node": "0.10.21"
+    },
+    "dependencies": {
+        "ar-drone": "0.3.1"
+    },
+    "devDependencies": {
+        "ar-drone": "0.3.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/gvt/nodecopter-gvt"
+    }
+}
